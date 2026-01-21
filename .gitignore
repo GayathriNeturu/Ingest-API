@@ -1,0 +1,14 @@
+# Build outputs
+bin/
+obj/
+
+# Runtime storage (ingest payloads)
+storage/
+
+# User-specific files
+*.user
+*.suo
+*.cache
+
+# OS files
+.DS_Store
