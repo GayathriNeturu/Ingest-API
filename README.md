@@ -21,9 +21,6 @@ This project is a sample Ingest API built to demonstrate backend development and
 * C# (.NET)
 * Async / Await
 
-## Documentation
-* [How to Run the API](HOW_TO_RUN.md)
-
 ## Future Enhancements
 * Centralized exception handling
 * Logging and correlation propagation
